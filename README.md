@@ -1,4 +1,4 @@
-# 42pipex
+# 42cursus - pipex
 
 Implementing pipex in C involves understanding how to manage processes, file descriptors, and pipes. Here's a brief outline of what you need to learn:
 
@@ -52,3 +52,4 @@ Learn how to manage memory properly, especially when dealing with dynamically al
 **Execution Flow:**
 
 Understand the flow of execution in your program, including when to fork, when to execute commands, when to close file descriptors, and when to wait for child processes to finish.
+
