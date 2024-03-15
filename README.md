@@ -1,6 +1,6 @@
 # 42cursus - pipex
 
-Implementing pipex in C involves understanding how to manage processes, file descriptors, and pipes. Here's a brief outline of what you need to learn:
+Implementing Pipex in C involves understanding how to manage processes, file descriptors, and pipes. Here's a brief outline of what you need to learn:
 
 
 **Processes and fork():** 
